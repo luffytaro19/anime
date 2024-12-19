@@ -26,6 +26,6 @@ html {
   display: inline-block;
   font-size: 1.8rem;
 }
-.container p, p2, p3{
+.container .t1{
   margin-bottom: 10px;
 }
