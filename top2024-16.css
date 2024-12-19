@@ -21,6 +21,7 @@ html {
   margin-bottom: -20px;
 }
 .container .anime{
+  display: inline-block;
   font-size: 1.8rem;
 }
 .container p, p2, p3{
