@@ -23,3 +23,6 @@ html {
 .container .anime{
   font-size: 1.8rem;
 }
+.container p, p2{
+  margin-bottom: -20px;
+}
